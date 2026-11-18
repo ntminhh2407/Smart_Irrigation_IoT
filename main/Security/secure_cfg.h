@@ -1,0 +1,5 @@
+#define SSID_WIFI "Dang Hien B"
+#define PASS_WIFI "86868686"
+#define MQTT_BROKER_URI "mqtts://8b4a62bc9a8641568ba46a62a1a1c9eb.s1.eu.hivemq.cloud:8883"
+#define MQTT_USERNAME "Irrigation_IoT"
+#define MQTT_PASSWORD "Uit12345678"
